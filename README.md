@@ -44,7 +44,7 @@ Toutes les options sont clairement commentées dans le fichier.
 
 ## 📸 Aperçu
 
-*(Ajoute ici une ou plusieurs captures d’écran)*
+![Aperçu du thème Stroubi](aperçu.png)
 
 ## 🙏 Crédits
 
